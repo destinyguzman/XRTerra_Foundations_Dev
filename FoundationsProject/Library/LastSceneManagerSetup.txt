@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PairProgram-02.unity
+- path: Assets/Scenes/Pair_Program_MoveCubeForward.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

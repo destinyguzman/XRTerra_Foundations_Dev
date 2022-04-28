@@ -1,0 +1,34 @@
+{
+    "name": "SpacebarPress",
+    "maps": [
+        {
+            "name": "Bar",
+            "id": "4544cd0f-b144-4767-b4dd-8765c8b5d8f7",
+            "actions": [
+                {
+                    "name": "SpacebarPress",
+                    "type": "Button",
+                    "id": "26a44fa6-f58c-48bb-8e64-29c3fa9ac2e7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a047ccd1-a6a2-41a8-bc35-b4bdd47c4575",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpacebarPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
