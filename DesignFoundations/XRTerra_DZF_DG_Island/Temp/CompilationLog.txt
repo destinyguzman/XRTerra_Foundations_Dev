@@ -1,0 +1,58 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f879453e356ed47d9abeb5f6b8e0a7b2
+# Starting compiling UnityEngine.UI.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8518a68202d4d4f7ba0b2019aea65f7d
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8c6b278367a364a3d88f058ce6e5dcbc
+# Starting compiling UnityEditor.UI.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3e12f4e9cf7eb4d70965f7fa0fab72a4
+# Starting compiling Unity.Services.Core.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a1af860d3790e49a09b7c4072d989ac5
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-824be7f1e9bc1478980e96206232d224
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9653f5078840047239160c68d49fce8a
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0bac084de92c049dabda5bab1715bcff
+# Starting compiling Unity.Timeline.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-84f23ee2897dc47e6911c80355bd9c71
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-111c5425dee8b435e880da0bfbada750
+# Starting compiling Unity.TextMeshPro.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3c949bd10db304be795eabe44fad0fbe
+# Starting compiling Unity.Searcher.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f85769d939299403ba502549c9c2d69a
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c57cc7e4fe6394a0db40cfd39651de8d
+# Starting compiling Unity.ShaderGraph.Utilities.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a53390e26eca840e3b72405f4e56ba10
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e955bd1748a6d426ea703ac457201f57
+# Starting compiling Unity.Rider.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-606dc404edd924db6a3e7d43bcbe9d45
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-db0dd8591bb8d44819341d3ef22ff5ca
+# Starting compiling Unity.Mathematics.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f6d69aa4727db49f0bfff38ebd7d21fc
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ffbba681132c74530b93acb3a8bb0349
+# Starting compiling Unity.ShaderGraph.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a76832eb4459449c4be313a9671fbf02
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8e8787e406e934de0b81b6db1642d02d
+# Starting compiling Unity.RenderPipelines.Core.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-67a5f1ec093014e65876ceffc62c53f9
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f6b09820f725241aa9175309a9218e04
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2197b3143fba84f3fa850434e6681e1c
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6acde04f801014eabaf75d97d47206de
+# Starting compiling Unity.Mathematics.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e303c203a69554421a380c3201646c77
+# Starting compiling Unity.RenderPipelines.Universal.Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-85b2437fbf3c24fa6ad3abbd390b8e5d
+# Starting compiling Assembly-CSharp.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-06d0344502e0d4028966a764f2934b64
+# Starting compiling Assembly-CSharp-Editor.dll
+/Users/hogenkam/Desktop/2020.3.32f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b61c40e8a0ee94d4abf1a1ea3ba5516f
